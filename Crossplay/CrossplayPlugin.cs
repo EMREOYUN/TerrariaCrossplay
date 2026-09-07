@@ -26,6 +26,7 @@ namespace Crossplay
             { 317, "v1.4.5.4" },
             { 318, "v1.4.5.5" },
             { 319, "v1.4.5.6" },
+            { 326, "v1.4.5.8" },
         };
 
         public override string Name => "Crossplay";
@@ -53,6 +54,7 @@ namespace Crossplay
             { 317, 6145 },
             { 318, 6145 },
             { 319, 6145 },
+            { 326, 6145 },
         };
 
         public CrossplayPlugin(Main game) : base(game)
